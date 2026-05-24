@@ -1,0 +1,201 @@
+date,merchant,amount,category
+2024-01-01,Paystack,13238.05,Business
+2024-01-02,Chicken Republic,19090.78,Food & Dining
+2024-01-03,DSTV,11728.0,Entertainment
+2024-01-05,Zenith Bank ATM,18851.09,Cash Withdrawal
+2024-01-07,GTBank ATM,18667.99,Cash Withdrawal
+2024-01-08,Konga,3325.87,Shopping
+2024-01-09,DSTV,21561.07,Entertainment
+2024-01-10,Chicken Republic,3155.86,Food & Dining
+2024-01-12,Chicken Republic,586.87,Food & Dining
+2024-01-12,DSTV,16700.95,Entertainment
+2024-01-12,Chicken Republic,18378.43,Food & Dining
+2024-01-13,Flutterwave,14156.44,Business
+2024-01-13,GTBank ATM,16477.55,Cash Withdrawal
+2024-01-14,Flutterwave,16997.43,Business
+2024-01-15,MTN Airtime,14689.92,Airtime & Data
+2024-01-15,Bolt,24039.08,Transport
+2024-01-16,GTBank ATM,10364.22,Cash Withdrawal
+2024-01-17,MTN Airtime,10664.26,Airtime & Data
+2024-01-19,GTBank ATM,13672.04,Cash Withdrawal
+2024-01-20,Flutterwave,17981.85,Business
+2024-01-20,Shell Station,11356.7,Fuel
+2024-01-21,Netflix,21455.28,Entertainment
+2024-01-22,DSTV,18431.74,Entertainment
+2024-01-22,Shoprite,16247.37,Groceries
+2024-01-24,Konga,20551.37,Shopping
+2024-01-24,Shoprite,23195.99,Groceries
+2024-01-24,Uber,16039.97,Transport
+2024-01-24,Shoprite,5856.63,Groceries
+2024-01-27,Konga,2772.27,Shopping
+2024-01-28,Konga,6592.08,Shopping
+2024-01-28,Shoprite,19571.3,Groceries
+2024-01-29,Shoprite,23262.92,Groceries
+2024-01-29,Uber,4244.61,Transport
+2024-01-31,Dominos Pizza,23569.11,Food & Dining
+2024-01-31,Flutterwave,6573.69,Business
+2024-02-03,Chicken Republic,23364.85,Food & Dining
+2024-02-05,Chicken Republic,6542.37,Food & Dining
+2024-02-05,DSTV,4195.35,Entertainment
+2024-02-07,MTN Airtime,1098.42,Airtime & Data
+2024-02-09,Zenith Bank ATM,5152.5,Cash Withdrawal
+2024-02-09,MTN Airtime,9660.89,Airtime & Data
+2024-02-09,Chicken Republic,5775.19,Food & Dining
+2024-02-11,Total Filling Station,9569.43,Fuel
+2024-02-11,GTBank ATM,24135.66,Cash Withdrawal
+2024-02-11,Shell Station,24417.05,Fuel
+2024-02-11,Shell Station,11825.38,Fuel
+2024-02-12,Shell Station,10457.14,Fuel
+2024-02-12,Uber,9784.84,Transport
+2024-02-12,Dominos Pizza,21092.39,Food & Dining
+2024-02-12,Total Filling Station,15344.37,Fuel
+2024-02-15,Shell Station,20200.69,Fuel
+2024-02-15,Chicken Republic,14724.45,Food & Dining
+2024-02-16,Paystack,7324.36,Business
+2024-02-17,DSTV,2178.77,Entertainment
+2024-02-18,Paystack,2810.98,Business
+2024-02-22,Uber,20905.83,Transport
+2024-02-22,Konga,17343.68,Shopping
+2024-02-24,Konga,16558.25,Shopping
+2024-02-24,Zenith Bank ATM,13711.23,Cash Withdrawal
+2024-02-24,Zenith Bank ATM,21683.93,Cash Withdrawal
+2024-02-24,Paystack,23258.38,Business
+2024-02-26,Paystack,11505.62,Business
+2024-02-26,Zenith Bank ATM,5389.53,Cash Withdrawal
+2024-02-27,Shell Station,1079.78,Fuel
+2024-02-27,Shell Station,3918.68,Fuel
+2024-02-28,Uber,20634.16,Transport
+2024-03-02,Netflix,1919.17,Entertainment
+2024-03-02,Konga,7007.56,Shopping
+2024-03-03,DSTV,9553.41,Entertainment
+2024-03-03,Zenith Bank ATM,19723.18,Cash Withdrawal
+2024-03-03,Dominos Pizza,4115.5,Food & Dining
+2024-03-04,Shoprite,5384.34,Groceries
+2024-03-05,Paystack,20955.32,Business
+2024-03-06,MTN Airtime,1587.47,Airtime & Data
+2024-03-07,Konga,5504.35,Shopping
+2024-03-08,Jumia,3328.0,Shopping
+2024-03-08,Shoprite,24311.26,Groceries
+2024-03-08,Bolt,13428.01,Transport
+2024-03-08,Dominos Pizza,23199.69,Food & Dining
+2024-03-09,Shell Station,4400.35,Fuel
+2024-03-10,Shell Station,8728.26,Fuel
+2024-03-12,DSTV,9103.08,Entertainment
+2024-03-12,Dominos Pizza,18924.24,Food & Dining
+2024-03-14,Flutterwave,10863.68,Business
+2024-03-14,Netflix,5649.48,Entertainment
+2024-03-17,GTBank ATM,12924.5,Cash Withdrawal
+2024-03-20,MTN Airtime,10275.31,Airtime & Data
+2024-03-21,Flutterwave,23260.95,Business
+2024-03-21,Uber,1900.55,Transport
+2024-03-24,Flutterwave,8768.76,Business
+2024-03-24,Paystack,10358.81,Business
+2024-03-27,DSTV,1015.34,Entertainment
+2024-03-29,Paystack,18349.35,Business
+2024-03-30,Uber,5993.44,Transport
+2024-03-30,Flutterwave,7977.18,Business
+2024-03-31,Paystack,10877.68,Business
+2024-03-31,Shoprite,7816.01,Groceries
+2024-04-01,Uber,5646.88,Transport
+2024-04-01,GTBank ATM,21263.61,Cash Withdrawal
+2024-04-02,Dominos Pizza,5873.36,Food & Dining
+2024-04-03,Netflix,22525.05,Entertainment
+2024-04-03,MTN Airtime,11066.79,Airtime & Data
+2024-04-04,Uber,14771.48,Transport
+2024-04-06,GTBank ATM,2430.6,Cash Withdrawal
+2024-04-07,GTBank ATM,21868.09,Cash Withdrawal
+2024-04-07,Chicken Republic,8520.14,Food & Dining
+2024-04-07,GTBank ATM,7310.35,Cash Withdrawal
+2024-04-08,DSTV,9849.67,Entertainment
+2024-04-08,GTBank ATM,22537.87,Cash Withdrawal
+2024-04-12,MTN Airtime,8542.42,Airtime & Data
+2024-04-12,Konga,7059.65,Shopping
+2024-04-15,Konga,20154.76,Shopping
+2024-04-15,Bolt,1107.27,Transport
+2024-04-17,DSTV,16605.64,Entertainment
+2024-04-17,Dominos Pizza,13686.4,Food & Dining
+2024-04-20,Jumia,3622.42,Shopping
+2024-04-21,Netflix,4374.86,Entertainment
+2024-04-21,Konga,15352.12,Shopping
+2024-04-22,Bolt,20926.75,Transport
+2024-04-22,Total Filling Station,22540.55,Fuel
+2024-04-23,Konga,15509.98,Shopping
+2024-04-23,Bolt,14016.17,Transport
+2024-04-26,DSTV,10653.8,Entertainment
+2024-04-26,GTBank ATM,3766.81,Cash Withdrawal
+2024-04-28,Jumia,4952.36,Shopping
+2024-04-29,MTN Airtime,17636.89,Airtime & Data
+2024-04-29,Konga,11323.76,Shopping
+2024-05-01,Bolt,11526.71,Transport
+2024-05-01,Shell Station,15476.21,Fuel
+2024-05-01,Jumia,16901.74,Shopping
+2024-05-04,Shell Station,5875.83,Fuel
+2024-05-04,Paystack,1211.11,Business
+2024-05-08,Zenith Bank ATM,23024.98,Cash Withdrawal
+2024-05-09,Chicken Republic,12469.03,Food & Dining
+2024-05-09,Bolt,22859.38,Transport
+2024-05-10,Jumia,12591.14,Shopping
+2024-05-10,MTN Airtime,12093.06,Airtime & Data
+2024-05-11,DSTV,6331.11,Entertainment
+2024-05-15,Flutterwave,6659.65,Business
+2024-05-16,DSTV,19262.94,Entertainment
+2024-05-17,MTN Airtime,11491.03,Airtime & Data
+2024-05-18,Konga,11915.15,Shopping
+2024-05-18,Bolt,23860.74,Transport
+2024-05-20,Paystack,11424.88,Business
+2024-05-20,Dominos Pizza,20926.27,Food & Dining
+2024-05-21,GTBank ATM,4308.47,Cash Withdrawal
+2024-05-21,Netflix,3618.55,Entertainment
+2024-05-23,Shoprite,5371.52,Groceries
+2024-05-23,Paystack,736.91,Business
+2024-05-25,MTN Airtime,21971.01,Airtime & Data
+2024-05-27,Shoprite,9819.34,Groceries
+2024-05-27,Netflix,17095.01,Entertainment
+2024-05-27,Total Filling Station,5211.07,Fuel
+2024-05-28,Shell Station,15065.72,Fuel
+2024-05-28,GTBank ATM,1129.12,Cash Withdrawal
+2024-05-29,Dominos Pizza,23678.52,Food & Dining
+2024-05-29,Chicken Republic,10996.63,Food & Dining
+2024-05-30,Shell Station,5895.33,Fuel
+2024-05-31,Dominos Pizza,14327.6,Food & Dining
+2024-05-31,DSTV,10837.08,Entertainment
+2024-06-02,Shoprite,8441.82,Groceries
+2024-06-03,Netflix,5660.43,Entertainment
+2024-06-04,DSTV,16056.97,Entertainment
+2024-06-05,Netflix,24604.41,Entertainment
+2024-06-06,Bolt,14443.08,Transport
+2024-06-07,Paystack,18862.2,Business
+2024-06-08,Konga,8190.93,Shopping
+2024-06-08,Jumia,13586.03,Shopping
+2024-06-08,Shoprite,4233.37,Groceries
+2024-06-09,Zenith Bank ATM,6361.52,Cash Withdrawal
+2024-06-09,Netflix,15653.73,Entertainment
+2024-06-10,DSTV,1942.41,Entertainment
+2024-06-12,Chicken Republic,17359.97,Food & Dining
+2024-06-12,Shell Station,7294.13,Fuel
+2024-06-12,Jumia,24505.05,Shopping
+2024-06-12,Netflix,12937.74,Entertainment
+2024-06-13,Chicken Republic,8834.3,Food & Dining
+2024-06-13,Dominos Pizza,11741.87,Food & Dining
+2024-06-15,DSTV,1486.32,Entertainment
+2024-06-17,Bolt,2577.49,Transport
+2024-06-17,Jumia,12144.42,Shopping
+2024-06-18,Netflix,3037.87,Entertainment
+2024-06-19,Paystack,23538.91,Business
+2024-06-19,Shell Station,3018.44,Fuel
+2024-06-19,Flutterwave,13512.73,Business
+2024-06-19,Shoprite,20519.05,Groceries
+2024-06-20,Konga,17138.98,Shopping
+2024-06-20,MTN Airtime,7040.96,Airtime & Data
+2024-06-20,Jumia,16314.77,Shopping
+2024-06-21,DSTV,21614.57,Entertainment
+2024-06-21,Shell Station,8105.28,Fuel
+2024-06-22,Dominos Pizza,24538.17,Food & Dining
+2024-06-22,GTBank ATM,18646.36,Cash Withdrawal
+2024-06-23,Bolt,10842.92,Transport
+2024-06-23,Shoprite,18157.68,Groceries
+2024-06-24,Shell Station,8444.93,Fuel
+2024-06-25,DSTV,22646.25,Entertainment
+2024-06-26,Dominos Pizza,4243.73,Food & Dining
+2024-06-27,Bolt,10854.05,Transport
+2024-06-27,MTN Airtime,9907.47,Airtime & Data
